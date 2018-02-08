@@ -20,7 +20,7 @@ npcIsAlive = True
 def randomATK():
 	temp = random.randrange(2,9)
 	return temp
-	
+	#
 def powerATK():
 
 	temp = random.randrange(10,18)
